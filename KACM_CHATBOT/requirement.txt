@@ -1,0 +1,10 @@
+sentence-transformers
+qdrant-client
+fastembed
+groq
+streamlit
+beautifulsoup4
+requests
+pandas
+numpy
+python-dotenv
